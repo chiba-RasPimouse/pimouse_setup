@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#Written by Chiba Tsutomu
 
 exec 2> /tmp/setup.log
 
